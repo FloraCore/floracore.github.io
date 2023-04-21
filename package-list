@@ -2,6 +2,8 @@ team.floracore.api
 team.floracore.api.extension
 team.floracore.common.api
 team.floracore.common.command
+team.floracore.common.commands.misc
+team.floracore.common.commands.player
 team.floracore.common.commands.test
 team.floracore.common.config
 team.floracore.common.config.generic
@@ -10,7 +12,11 @@ team.floracore.common.config.generic.key
 team.floracore.common.dependencies
 team.floracore.common.dependencies.classloader
 team.floracore.common.dependencies.relocation
+team.floracore.common.exception
 team.floracore.common.extension
+team.floracore.common.http
+team.floracore.common.listener
+team.floracore.common.listeners
 team.floracore.common.loader
 team.floracore.common.locale
 team.floracore.common.plugin
@@ -26,6 +32,9 @@ team.floracore.common.storage.implementation.sql.connection
 team.floracore.common.storage.implementation.sql.connection.file
 team.floracore.common.storage.implementation.sql.connection.hikari
 team.floracore.common.storage.misc
+team.floracore.common.storage.misc.floracore
+team.floracore.common.storage.misc.floracore.tables
 team.floracore.common.util
+team.floracore.common.util.gson
 team.floracore.plugin
 team.floracore.plugin.loader
