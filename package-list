@@ -1,4 +1,5 @@
 org.floracore.api
+org.floracore.api.chat
 org.floracore.api.data
 org.floracore.api.extension
 org.floracore.api.player
@@ -8,6 +9,7 @@ team.floracore.common.api.implementation
 team.floracore.common.command
 team.floracore.common.commands.misc
 team.floracore.common.commands.player
+team.floracore.common.commands.server
 team.floracore.common.commands.test
 team.floracore.common.commands.world
 team.floracore.common.config
@@ -24,6 +26,7 @@ team.floracore.common.listener
 team.floracore.common.listeners
 team.floracore.common.loader
 team.floracore.common.locale
+team.floracore.common.locale.chat
 team.floracore.common.locale.data
 team.floracore.common.locale.translation
 team.floracore.common.plugin
